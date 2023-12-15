@@ -1,0 +1,21 @@
+* { 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul {
+    background-color: blue;
+    color: white;
+}
+a {
+    color: white;
+}
+.ingredients {
+    background-color: grey;
+    color: white;
+}
+
+.steps {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aqua;
+    color: black;
+}
